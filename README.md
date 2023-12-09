@@ -11,6 +11,7 @@
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=khadizajarin&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khadizajarin&theme=gruvbox&utcOffset=utcOffset)
 
 
 - 🔭 I’m currently working on: React, Node.js, Express.js, Mongodb.
