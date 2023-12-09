@@ -8,7 +8,7 @@
 </p>
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=solarized&width=1000)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=solarized)
 <!--
 **khadizajarin/khadizajarin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
