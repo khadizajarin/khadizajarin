@@ -11,7 +11,7 @@
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=khadizajarin&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khadizajarin&theme=gruvbox&exclude=js,node)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khadizajarin&theme=gruvbox)
 
 )
 
