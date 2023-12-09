@@ -9,7 +9,9 @@
 
 
 <p align="center">
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khadizajarin&theme=gruvbox)
+  <a href="https://skillicons.dev">
+    ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khadizajarin&theme=gruvbox)
+  </a>
 </p>
 
 
