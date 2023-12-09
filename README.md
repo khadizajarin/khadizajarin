@@ -6,6 +6,9 @@
     <img src="https://skillicons.dev/icons?i=vscode,git,github,js,css,tailwind,react,nodejs,express,dotnet,mongodb,vercel,netlify,latex" />
   </a>
 </p>
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default)
 <!--
 **khadizajarin/khadizajarin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
