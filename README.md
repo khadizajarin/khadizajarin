@@ -1,5 +1,5 @@
 ![Header](./khadizajarin.png)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=khadizajarin)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=khadizajarin&theme=highcontrast)](https://git.io/streak-stats)
 
 <!--
 **khadizajarin/khadizajarin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
