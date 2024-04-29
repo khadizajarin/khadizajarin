@@ -1,4 +1,4 @@
-![Header](./Roza_Banner.jpg)
+[Header](./Roza_Banner.jpg)
 [![GitHub Streak](https://streak-stats.demolab.com?user=khadizajarin&theme=highcontrast&hide_border=true&border_radius=6.1&date_format=M%20j%5B%2C%20Y%5D&card_width=1000)](https://git.io/streak-stats)
 
 <p align="center">
