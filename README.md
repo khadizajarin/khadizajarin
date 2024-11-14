@@ -7,6 +7,11 @@
   </a>
 </p>
 
+## My GitHub Activity
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=khadizajarin&theme=react-dark&hide_border=true&area=true)
+
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khadizajarin&theme=blueberry)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=khadizajarin&theme=solarized)
