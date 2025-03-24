@@ -1,5 +1,6 @@
 ![Header](./Roza_Banner.jpg)
-[![GitHub Streak](https://streak-stats.demolab.com?user=khadizajarin&theme=blue-green&hide_border=true&border_radius=6.1&date_format=M%20j%5B%2C%20Y%5D&card_width=1000)](https://github.com/khadizajarin)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khadizajarin&theme=blue-green&hide_border=true)](https://github.com/khadizajarin)
+
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -8,6 +9,9 @@
 </p>
 
 ## My GitHub Activity
+
+[![Khadiza Jarin's GitHub activity graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khadizajarin&theme=github_dark)](https://github.com/khadizajarin)
+
 
 ![Khadiza Jarin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khadizajarin&theme=react-dark&hide_border=true&area=true)
 
