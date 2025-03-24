@@ -1,7 +1,7 @@
 ![Header](./Roza_Banner.jpg)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khadizajarin&theme=blue-green&hide_border=true)](https://github.com/khadizajarin)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=khadizajarin&theme=algolia&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=khadizajarin&theme=algolia&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -9,7 +9,7 @@
   </a>
 </p>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+<img align="center" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
 
 
 ## My GitHub Activity
@@ -35,10 +35,10 @@
 
 
 
-- 🔭 I’m currently working on: React, Node.js, Express.js, Mongodb. Nextjs, Material UI.
-- 🌱 I’m currently learning: Next.js
+- 🔭 Current Tech Stack: React.js, Next.js, Node.js, Express.js, MongoDB, Material UI
+- 🌱 Currently Learning: Advanced Next.js & Full-Stack Best Practices
 - 👯 I’m looking to collaborate on MERN stack projects
-- 💬 Ask me about: React, Node.js, Express.js, Mongodb.
+- 💬 Ask me about: React, Node.js, Express.js, Mongodb, Next.js
 - 📫 How to reach me: Through Email and Linkedin provided to the social links section
 
 
