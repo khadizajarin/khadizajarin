@@ -1,4 +1,4 @@
-![Header](./Roza_Banner.jpg)
+![Header](./roza-banner.png)
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0AFF00&width=435&lines=Hi%2C+I'm+Khadiza+Jarin!;A+passionate+MERN+Developer!;React.js+%7C+Next.js+%7C+Tailwind+CSS+%7C+MERN)](https://git.io/typing-svg)
